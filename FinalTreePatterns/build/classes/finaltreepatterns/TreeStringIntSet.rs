@@ -1,0 +1,6 @@
+finaltreepatterns.Pair
+finaltreepatterns.DuplicateValueException
+finaltreepatterns.TreeStringIntSet$PatternTreeIterator
+finaltreepatterns.TreeStringIntSet$Node
+finaltreepatterns.TreeStringIntSet$TreeIterator
+finaltreepatterns.TreeStringIntSet
